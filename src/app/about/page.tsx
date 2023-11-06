@@ -1,10 +1,10 @@
 import Header from "@/components/header";
 
-export default function Home() {
+export default function AboutUs() {
   return (
     <>
       <Header />
-      <main className="">homepage content</main>
+      <main className="">about us content</main>
     </>
   );
 }
